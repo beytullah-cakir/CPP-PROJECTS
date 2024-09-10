@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "*.embeddedhtml": "html",
+        "xstring": "cpp",
+        "iosfwd": "cpp",
         "atomic": "cpp",
         "bit": "cpp",
         "cctype": "cpp",
@@ -18,9 +20,9 @@
         "cwchar": "cpp",
         "exception": "cpp",
         "format": "cpp",
+        "fstream": "cpp",
         "initializer_list": "cpp",
         "ios": "cpp",
-        "iosfwd": "cpp",
         "iostream": "cpp",
         "istream": "cpp",
         "iterator": "cpp",
@@ -31,7 +33,6 @@
         "ostream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "string": "cpp",
         "system_error": "cpp",
         "tuple": "cpp",
         "type_traits": "cpp",
@@ -48,12 +49,9 @@
         "xlocnum": "cpp",
         "xloctime": "cpp",
         "xmemory": "cpp",
-        "xstring": "cpp",
         "xtr1common": "cpp",
         "xutility": "cpp",
-        "map": "cpp",
-        "xtree": "cpp",
-        "fstream": "cpp"
+        "algorithm": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
